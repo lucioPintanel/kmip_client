@@ -3,9 +3,6 @@
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/:user/:repo)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/:user/:repo)
-
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Este projeto implementa um cliente KMIP (Key Management Interoperability Protocol) que se comunica com um servidor KMIP utilizando TLS/SSL para garantir a segurança na transmissão de dados. Através deste cliente, é possível realizar operações de gerenciamento de chaves criptográficas de forma segura e eficiente.
