@@ -1,3 +1,3 @@
-module exemplo.com/kmip_cli
+module kmip_cli
 
 go 1.23.2
